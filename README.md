@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishal Thakare-(@viiishal017)
 - 👀 I’m interested in Coding in Java...
-- 🌱 I’m currently learning Data Structures & Algorithm In Java..
+- 🌱 I’m currently learning Data Structures & Algorithm In Java & Web Devlopment..
 - 💞️ I’m looking to collaborate on Different projects
 - 📫 How to reach me vishalthakare0777@gmail.com
 
